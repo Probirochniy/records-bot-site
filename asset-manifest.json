@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/records-bot-site/static/css/main.c38be0d0.css",
+    "main.css": "/records-bot-site/static/css/main.8cf6f580.css",
     "main.js": "/records-bot-site/static/js/main.7d264eaa.js",
     "static/js/787.19a8a162.chunk.js": "/records-bot-site/static/js/787.19a8a162.chunk.js",
     "index.html": "/records-bot-site/index.html",
-    "main.c38be0d0.css.map": "/records-bot-site/static/css/main.c38be0d0.css.map",
+    "main.8cf6f580.css.map": "/records-bot-site/static/css/main.8cf6f580.css.map",
     "main.7d264eaa.js.map": "/records-bot-site/static/js/main.7d264eaa.js.map",
     "787.19a8a162.chunk.js.map": "/records-bot-site/static/js/787.19a8a162.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c38be0d0.css",
+    "static/css/main.8cf6f580.css",
     "static/js/main.7d264eaa.js"
   ]
 }

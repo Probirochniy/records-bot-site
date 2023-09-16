@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/records-bot-site/static/css/main.8f660c77.css",
+    "main.css": "/records-bot-site/static/css/main.6bdccb7b.css",
     "main.js": "/records-bot-site/static/js/main.0aabe3e3.js",
     "static/js/787.19a8a162.chunk.js": "/records-bot-site/static/js/787.19a8a162.chunk.js",
     "static/media/thx_b.png": "/records-bot-site/static/media/thx_b.48857822b1b0964eeefd.png",
@@ -8,12 +8,12 @@
     "static/media/spec2.jpeg": "/records-bot-site/static/media/spec2.ef45bbdfe647ff83c44b.jpeg",
     "static/media/spec3.jpeg": "/records-bot-site/static/media/spec3.058858de0b8b28cd60d3.jpeg",
     "index.html": "/records-bot-site/index.html",
-    "main.8f660c77.css.map": "/records-bot-site/static/css/main.8f660c77.css.map",
+    "main.6bdccb7b.css.map": "/records-bot-site/static/css/main.6bdccb7b.css.map",
     "main.0aabe3e3.js.map": "/records-bot-site/static/js/main.0aabe3e3.js.map",
     "787.19a8a162.chunk.js.map": "/records-bot-site/static/js/787.19a8a162.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8f660c77.css",
+    "static/css/main.6bdccb7b.css",
     "static/js/main.0aabe3e3.js"
   ]
 }

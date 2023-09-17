@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/records-bot-site/static/css/main.6bdccb7b.css",
-    "main.js": "/records-bot-site/static/js/main.0aabe3e3.js",
-    "static/js/787.19a8a162.chunk.js": "/records-bot-site/static/js/787.19a8a162.chunk.js",
-    "static/media/thx_b.png": "/records-bot-site/static/media/thx_b.48857822b1b0964eeefd.png",
-    "static/media/spec1.jpeg": "/records-bot-site/static/media/spec1.09a66e8a39900137e9e4.jpeg",
-    "static/media/spec2.jpeg": "/records-bot-site/static/media/spec2.ef45bbdfe647ff83c44b.jpeg",
-    "static/media/spec3.jpeg": "/records-bot-site/static/media/spec3.058858de0b8b28cd60d3.jpeg",
+    "main.css": "/records-bot-site/static/css/main.9cd9fdf5.css",
+    "main.js": "/records-bot-site/static/js/main.7ec794f1.js",
+    "static/media/med.jpg": "/records-bot-site/static/media/med.88b32d44ef23b45552bc.jpg",
+    "static/media/action.jpg": "/records-bot-site/static/media/action.d9d72afbea3293bde718.jpg",
+    "static/media/Услуги 1.jpg": "/records-bot-site/static/media/Услуги 1.f3a9f0bac499a4565936.jpg",
+    "static/media/Услуги 2.jpg": "/records-bot-site/static/media/Услуги 2.d5623534b2ebfdd7a7fd.jpg",
+    "static/media/Услуги 3.jpg": "/records-bot-site/static/media/Услуги 3.07f92ec678dbc086791d.jpg",
+    "static/media/chel.jpg": "/records-bot-site/static/media/chel.058858de0b8b28cd60d3.jpg",
     "index.html": "/records-bot-site/index.html",
-    "main.6bdccb7b.css.map": "/records-bot-site/static/css/main.6bdccb7b.css.map",
-    "main.0aabe3e3.js.map": "/records-bot-site/static/js/main.0aabe3e3.js.map",
-    "787.19a8a162.chunk.js.map": "/records-bot-site/static/js/787.19a8a162.chunk.js.map"
+    "main.9cd9fdf5.css.map": "/records-bot-site/static/css/main.9cd9fdf5.css.map",
+    "main.7ec794f1.js.map": "/records-bot-site/static/js/main.7ec794f1.js.map"
   },
   "entrypoints": [
-    "static/css/main.6bdccb7b.css",
-    "static/js/main.0aabe3e3.js"
+    "static/css/main.9cd9fdf5.css",
+    "static/js/main.7ec794f1.js"
   ]
 }
